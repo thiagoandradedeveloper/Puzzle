@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 :root{
-    --sizeContainer: 400px;
+    --sizeContainer: 350px;
 }
 body {
     display: flex;
